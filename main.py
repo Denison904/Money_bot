@@ -15,7 +15,7 @@ current_coin = 1
 
 word = ['Бросок', 'бросок', 'подбрось', 'кинь']
 
-updater = Updater(token='1521206514:AAEjmW5f3C0SIq5-KxEmftTLuf-Pzu4l30g', use_context=True)
+updater = Updater(token='ur_token', use_context=True)
 dispatcher = updater.dispatcher
 
 
